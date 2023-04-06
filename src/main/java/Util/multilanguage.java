@@ -1,2 +1,4 @@
-package Util;public class multilanguage {
+package Util;
+
+public class multilanguage {
 }
